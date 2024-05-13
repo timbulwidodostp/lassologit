@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p lassologit Model selection and prediction with regularized regression logistic use lassologit (lassologit rlassologit cvlassologit) in (With) STATA 18
