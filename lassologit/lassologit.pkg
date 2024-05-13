@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'lassologit': Model selection and prediction with regularized regression logistic use lassologit (lassologit rlassologit cvlassologit) in (With) STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cvlassologit.ado
+f cvlassologit.sthlp
+f lassologit.ado
+f lassologit.ihlp
+f lassologit.sthlp
+f lassologit_p.ado
+f lassoutils.ado
+f rlassologit.ado
+f rlassologit.sthlp
