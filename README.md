@@ -5,6 +5,8 @@ For logistic lasso regression use lassologit (lassologit rlassologit cvlassologi
 
 Logistic lasso use lassologit (lassologit rlassologit cvlassologit) in (With) STATA 18
 
+https://www.youtube.com/watch?v=UxkBeLCmEMo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
